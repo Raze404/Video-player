@@ -1,4 +1,4 @@
-#Video Player
+# Video Player
 
 This is a simple desktop video player built with Python, PyQt5, and VLC.
 It allows you to open a folder and play videos from that folder and all subfolders using a clean dark interface.
@@ -18,20 +18,20 @@ Subtitle and audio track selection
 Keyboard shortcuts for playback
 Drag and drop a folder into the app
 
-##Supported video formats
+## Supported video formats
 
 The player supports the following video and media formats:
 
 .mp4 .mkv .avi .mov .webm .wmv .flv .mpeg .mpg .m4v .3gp .ogv .ts .m2ts .mts .vob .asf .mpe .mp2 .mpv .f4v .divx .xvid .ogm .rm .rmvb .qt .m1v .m2v .m3u8 .h264 .hevc .mxf .dv .drc .nsv .yuv .amv .avchd .gifv .m2p .m2t .mp4v .3g2 .m4p .m4b .m4r .m4a .ogx .mka .mks .mk3d
 
-##Requirements
+## Requirements
 
 Python 3.8 or newer
 VLC media player must be installed on your system
 
 The application will not run without VLC installed.
 
-##How to run
+## How to run
 
 Clone the repository
 
@@ -43,7 +43,7 @@ Install dependencies
 
 pip install -r requirements.txt
 
-##Install VLC(NON VLC VERSION IN WORKS SO A NEW VIDEO PLAYER THAT RUNS LOCALLY LIKE VLC BUT BETTER)
+## Install VLC(NON VLC VERSION IN WORKS SO A NEW VIDEO PLAYER THAT RUNS LOCALLY LIKE VLC BUT BETTER)
 
 Windows
 Download and install VLC from the official VLC website
