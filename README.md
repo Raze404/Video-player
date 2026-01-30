@@ -1,4 +1,6 @@
-is a simple desktop video player built with Python, PyQt5, and VLC.
+#Video Player#
+
+This is a simple desktop video player built with Python, PyQt5, and VLC.
 It allows you to open a folder and play videos from that folder and all subfolders using a clean dark interface.
 
 The app remembers playback progress, volume, speed, and other settings automatically.
